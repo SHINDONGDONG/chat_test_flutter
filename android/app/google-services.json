@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "317723963492",
+    "project_id": "we-chat-7c320",
+    "storage_bucket": "we-chat-7c320.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:317723963492:android:d216ad4cc4f2b05a23ef71",
+        "android_client_info": {
+          "package_name": "com.example.chat_test_flutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJHU00-a3i0vHIDz7kH6L3aKjiJ6nbaeg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
